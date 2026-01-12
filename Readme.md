@@ -10,10 +10,10 @@ There are still questions remain in this solution:
 
 Hope this can help u
 
-![Preview](Images\Preview.png)
+![Preview](https://github.com/fuyiweiwow/RectangleControl/blob/8bb2485ea47be875cc210afb1cdefe188605099d/Images/Preview.png)
 
-![Resize](Images\Resize.png)
+![Resize](https://github.com/fuyiweiwow/RectangleControl/blob/8bb2485ea47be875cc210afb1cdefe188605099d/Images/Resize.png)
 
-![Rotate1](Images\Rotate1.png)
+![Rotate1](https://github.com/fuyiweiwow/RectangleControl/blob/8bb2485ea47be875cc210afb1cdefe188605099d/Images/Rotate1.png)
 
-![Rotate2](Images\Rotate2.png)
+![Rotate2](https://github.com/fuyiweiwow/RectangleControl/blob/8bb2485ea47be875cc210afb1cdefe188605099d/Images/Rotate2.png)
