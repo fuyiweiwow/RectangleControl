@@ -8,3 +8,11 @@ There are still questions remain in this solution:
 2. I had no time to test the uploaded code, but i ensure the origin code of this copied one runs well
 
 Hope this can help u
+
+![Preview](Images\Preview.png)
+
+![Resize](Images\Resize.png)
+
+![Rotate1](Images\Rotate1.png)
+
+![Rotate2](Images\Rotate2.png)
