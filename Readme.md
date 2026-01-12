@@ -4,7 +4,7 @@ I had been finding such a control for long time, but many solutions perform not 
 The key idea of this solution comes from https://shihn.ca/posts/2020/resizing-rotated-elements/, many thanks.
 There are still questions remain in this solution:
 
-1. I use System.Window.Rect so if you strech one side of rectangle to the opposite side, the Retangle would move.So i set a fixed minimized value. I would consider a updated if was fired and decide not any more(so sad)
-2. I had no time test the updated code, but i ensure the origin code of this copied one runs well
+1. I use System.Window.Rect so if you strech one side of rectangle to the opposite side, the Retangle would move.So i set a fixed minimized value. I would consider a better way if was fired and decide not work any more(so sad)
+2. I had no time to test the uploaded code, but i ensure the origin code of this copied one runs well
 
 Hope this can help u
