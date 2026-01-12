@@ -6,5 +6,6 @@ There are still questions remain in this solution:
 
 1. I use System.Window.Rect so if you strech one side of rectangle to the opposite side, the Retangle would move.So i set a fixed minimized value. I would consider a better way if was fired and decide not work any more(so sad)
 2. I had no time to test the uploaded code, but i ensure the origin code of this copied one runs well
+3. For convenience i use PRIM as the MVVM support, you can replace it to meet your requirements
 
 Hope this can help u
