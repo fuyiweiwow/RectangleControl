@@ -10,7 +10,7 @@ using Vector = System.Windows.Vector;
 
 namespace RectangleControl.ViewModels
 {
-    public class MarkRectangleViewModel : BindableBase
+    public class MarkRectangleViewModel : BindableBase, IDataTemplateMatcher<CanvasItemsTemplateSelector.InnerSelector>
     {
         class StrechResult
         {
@@ -127,6 +127,7 @@ namespace RectangleControl.ViewModels
 
             var roh = new RotateHandle();
             Marks.Add(roh);
+            Marks.Add(new RotateMarkViewModel(roh.Length));
 
             foreach (var mark in Marks)
             {
